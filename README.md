@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HimanshuGupta0011
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C
+
 
 <!---
 HimanshuGupta0011/HimanshuGupta0011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
