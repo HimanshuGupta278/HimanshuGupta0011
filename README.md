@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HimanshuGupta0011
-- 👀 I’m interested in programming
+
 
 
 <!---
